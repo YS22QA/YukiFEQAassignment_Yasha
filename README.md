@@ -2,10 +2,11 @@
 
 A strict TypeScript-based Playwright automation framework featuring the **Page Object Model** and **Custom Fixtures**.
 
-## 🚀 Quick Start
+## Quick Start
 
 # Install dependencies
 npm install
+
 npx playwright install
 
 # Run tests
@@ -18,7 +19,7 @@ npx playwright test --ui
 npx playwright test --project=chromium --headed
 
 
-## 📂 Project Structure
+## Project Structure
 yukiFE_Yasha/
 ├── pages/       # Page Objects encapsulating UI logic
 ├── tests/       # Test specifications (*.spec.ts)
